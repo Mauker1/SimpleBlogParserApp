@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Blog Parser</string>
+
+    <!-- region main activity -->
+
+    <string name="act_main_title">Blog parser - Maurício Pessoa</string>
+    <string name="act_main_description">Please press the sync button to start…</string>
+
+    <string name="act_main_default_string">Waiting sync…</string>
+    <string name="act_main_no_connection_error">No internet connection, please try again later…</string>
+
+    <string name="act_main_request_1_title">Request 1</string>
+    <string name="act_main_request_2_title">Request 2</string>
+    <string name="act_main_request_3_title">Request 3</string>
+
+    <!-- endregion -->
+
+</resources>

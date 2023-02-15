@@ -1,0 +1,13 @@
+<resources>
+    <dimen name="base_grid">8dp</dimen>
+    <dimen name="double_grid">16dp</dimen>
+    <dimen name="large_grid">24dp</dimen>
+
+    <dimen name="fab_margin">@dimen/double_grid</dimen>
+
+    <dimen name="act_main_txt_gone_margin">72dp</dimen>
+
+    <dimen name="header_text_size">20sp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="normal_text_size">14sp</dimen>
+</resources>
